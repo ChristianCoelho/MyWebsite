@@ -2,7 +2,6 @@ body{
     margin: 0 auto;
     font-family: 'Gamja Flower', cursive;
 }
-
 .nav-bar{
     background-color: #64387c;/*rgb(100, 56, 124);*/
     height: 60px;
@@ -56,8 +55,9 @@ body{
 .banner-text-background{
     height: 75px;
     width: 300px;
+    position: absolute;
     background-color: #64387c;
-    /*position: absolute;*/
+    margin-top: 10%;
     text-align: center;
     top: 25px;
     left: 40%;
